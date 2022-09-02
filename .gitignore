@@ -1,3 +1,4 @@
 env/
 config.py
-__pycahe__/
+__pycache__/
+Procfile
