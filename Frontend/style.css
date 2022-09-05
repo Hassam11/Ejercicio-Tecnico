@@ -20,3 +20,7 @@ body{
 .precio > span {
     padding: 17px;
 }
+
+.activo{
+    font-size: 40px;
+}
