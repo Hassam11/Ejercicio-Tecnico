@@ -1,5 +1,4 @@
 const items = document.getElementById("items");
-const cardItem = document.getElementById("cardItem");
 const input = document.querySelector("#searchInput");
 
 const fetchData = async () => {
